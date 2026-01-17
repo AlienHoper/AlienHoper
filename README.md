@@ -13,5 +13,3 @@ Here are a few of my coding projects:
 - **Simple Search Server** — Tiny in-memory search with stop-words, TF-IDF ranking, pagination, and request-queue analytics.  
   → repo: https://github.com/AlienHoper/cpp_search_server
 
-
-> I’m a FIEA LD student who loves C++ foundations + practical game tools.
